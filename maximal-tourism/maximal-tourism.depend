@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1494074939 source:d:\acads\c\hacker rank\maximal-tourism\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+

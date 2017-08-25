@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494021646 source:d:\acads\c\hacker rank\comparing-times\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
